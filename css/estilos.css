@@ -1,0 +1,161 @@
+p{
+    text-align: center;
+}
+#contenedor {
+    width: 800px;
+    height: 800px;
+    background-color: skyblue;
+    margin: auto;
+}
+
+
+#caja1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    left: 250px;
+    bottom: 50px;
+    border-radius: 50px;
+}
+#caja1-1{
+    width: 50px;
+    height: 50px;
+    background-color: peru;
+    position: relative;
+    left: 25px;
+    top: 25px;
+    border-radius: 50px;
+}
+#caja2{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    left: 200px;
+    top: 50px;
+    border-radius: 200px;
+}
+#boca{
+    width: 100px;
+    height: 100px;
+    background-color: peru;
+    position: relative;
+    border-radius: 100px;
+    top: 25px;
+    left: 50px;
+}
+#nariz{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    position: relative;
+    left: 85px;
+    bottom: 65px;
+    border-radius: 50px;
+}
+#ojo1{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    border-radius: 50px;
+}
+#ojo2{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    position: relative;
+    top: 25px;
+    left: 125px;
+    border-radius: 50px;
+}
+
+#caja3{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    left: 150px;
+    bottom: 50px;
+    border-radius: 50px;
+}
+#caja3-1{
+    width: 50px;
+    height: 50px;
+    background-color: peru;
+    position: relative;
+    top: 25px;
+    left: 25px;
+    border-radius: 50px;
+}
+
+
+#caja4{
+    width: 350px;
+    height: 350px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    left: 230px;
+    bottom: 75px;
+    border-radius: 300px;
+}
+
+#estomago{
+    width: 275px;
+    height: 275px;
+    background-color: peru;
+    position: relative;
+    top: 50px;
+    left: 40px;
+    border-radius: 275px;
+}
+
+#pata1{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    left: 175px;
+    top: 50px;
+    border-radius: 75px;
+}
+
+#pata2{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    bottom: 300px;
+    left: 150px ;
+    border-radius: 50px;
+}
+
+#pata3{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    right: 25px;
+    bottom: 45px;
+    border-radius: 50px;
+}
+
+#pata4{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    display: inline-block;
+    bottom: 150px;
+    left: 175px;
+    border-radius: 50px;
+}
